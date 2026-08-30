@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://github.com/zxbdzh/MoLeMa/blob/19cedda01f1047b992476180e9ef3641ebc1a159/icons/icon.png" width="64" height="64" />
+<img src="icons/icon.png" width="64" height="64" />
 
 # 摸了吗
 
 **🎯 专为程序员打造的摸鱼神器**
+
+> MoLeMa ("摸了吗") is a stealthy desktop sidekick for developers: one global hotkey summons/hides the window, packed with an RSS reader, notes, todo list and news feed — built with Electron + React + TypeScript.
 
 [![Version](https://img.shields.io/badge/version-0.0.8-blue)](https://github.com/zxbdzh/MoLeMa)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
